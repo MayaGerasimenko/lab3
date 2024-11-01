@@ -1,5 +1,5 @@
 {
-    "name": "urfu-LastName", // Изменили "urfu/LastName" на "urfu-LastName"
+    "name": "urfu-LastName", 
     "type": "project",
     "description": "LabWork",
     "license": "MIT",
